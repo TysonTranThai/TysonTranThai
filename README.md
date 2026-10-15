@@ -1,120 +1,96 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Tyson Tran</h1>
-<h3 align="center">Fullstack Developer, Ai Engineer, Cyber Security Manager, Ai Consultancy, Programming & Ai Teaching/Learning Consultancy</h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=TysonTranThai">
-    <img src="https://komarev.com/ghpvc/?username=TysonTranThai&label=Profile%20views&color=00FFFF&style=flat-square" alt="TysonTranThai's profile views" />
-  </a>
-</p>
-
-## 📌 About Me
-- I'm Tyson (Trần Thái Sơn), an AI Engineer, Full-Stack Developer, AI Consultant, and Educator. I've been passionate about computers since Grade 3, and today I engineer autonomous AI systems, production software, automation pipelines, and infrastructure while empowering businesses and learners.
-- I approach engineering by actually building. Rather than getting trapped in theoretical hype or generic marketing, my focus is technical execution: architecting autonomous multi-agent systems, deploying self-hosted inference infrastructure, engineering workflow automation, and developing resilient full-stack web software.
-- My journey began around Grade 3 with an intense curiosity about how computers, operating systems, browsers, networking, and cybersecurity worked. That foundation expanded through web development (Grades 4–7), a deep detour into competitive athletics (basketball) and e-commerce business (Grade 8), and a powerful reawakening with the modern AI revolution (2024–2026).
-- Today, I architect systems like Chief of Agents (multi-agent project orchestration), Not Limited (removing technical and financial barriers to building), and GPU Rental Kit (automated GPU provisioning). I partner with businesses on pragmatic AI solutions and mentor students to build real software independently through spec-driven vibe coding.
-
-
-## 🧠 My Focus Areas
-- Ai/ML Research, Free learning resourcing for new dev beginners and contribute to the community that got me here, and much more than that!
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/TysonTranThai">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TysonTranThai&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="TysonTranThai's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=TysonTranThai&theme=dark&hide_border=true&cache_seconds=86400" alt="TysonTranThai's GitHub Streak" width="49%" />
-</p>
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="480" />
+  <h1>Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30" width="30" alt="cat typing"> I'm Tyson Tran</h1>
+  <h3>Full-Stack Developer · AI Engineer · Systems Architect · Tech Educator</h3>
+
+  <p>
+    <a href="https://tysontranthai.site/"><img src="https://img.shields.io/badge/Portfolio-tysontranthai.site-00FFFF?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>&nbsp;
+    <img src="https://img.shields.io/badge/Location-Vietnam-FF6F00?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />&nbsp;
+    <img src="https://img.shields.io/badge/Focus-Autonomous%20AI%20%26%20Agents-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Focus" />
+  </p>
 </div>
 
+---
 
-## 🛠️ Languages & Tools
+### 📌 About Me
 
-<h3 align="center">Programming Languages</h3>
+- 👋 I'm **Tyson (Trần Thái Sơn)** — an AI Engineer, Full-Stack Developer, Systems Architect, and Educator based in Vietnam.
+- ⚡ **Execution Over Hype:** Rather than getting trapped in theoretical trends or generic marketing, my focus is technical execution: architecting autonomous multi-agent systems, deploying self-hosted inference infrastructure, engineering automated workflow pipelines, and crafting resilient full-stack applications.
+- 🚀 **The Journey:** My fascination with computers began early in Grade 3, exploring operating systems, networking, and cybersecurity. Over the years, that evolved through early web development, competitive athletics, e-commerce entrepreneurship, and a deep resurgence with the modern AI revolution.
+- 🛠️ **Current Focus:** Leading and architecting systems including:
+  - **Chief of Agents** — Multi-agent project orchestration & autonomous execution.
+  - **Not Limited** — Removing technical and financial barriers to building.
+  - **GPU Rental Kit** — Automated on-demand GPU provisioning for inference and fine-tuning.
+  - Mentoring builders to ship production software independently via modern spec-driven development.
+
+---
+
+### 🧠 Focus Areas
+
+- 🤖 **Autonomous Multi-Agent Systems:** Agent orchestration, tool-calling workflows, and self-directed task pipelines.
+- ⚡ **AI Infrastructure & Inference:** Self-hosted open-source model deployment, automated GPU provisioning, and local-first architecture.
+- 🌐 **Modern Full-Stack Engineering:** High-performance web applications, developer tooling, and desktop utilities.
+- 🎓 **Developer Empowerment & Open-Source:** Providing free learning resources for newcomers and contributing back to the builder community.
+
+---
+
+### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TysonTranThai&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="TysonTranThai's GitHub Stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=TysonTranThai&theme=dark&hide_border=true" alt="TysonTranThai's GitHub Streak" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/TysonTranThai">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TysonTranThai&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TysonTranThai&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City Contribution Graph" width="500" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TysonTranThai/TysonTranThai/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TysonTranThai/TysonTranThai/output/github-snake.svg" />
+    <img alt="Tyson's Contribution Snake" src="https://raw.githubusercontent.com/TysonTranThai/TysonTranThai/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="center">
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white) |
+| **AI & Agentic** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) |
+| **Frontend & App** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=black) |
+| **Backend & Cloud** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
+</div>
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://tysontranthai.site/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Website" /></a>&nbsp;&nbsp;
+  <a href="mailto:tysontranthai@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=61570211919007" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/TysonTranThai" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tysontrantt" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" />
   </a>
 </p>
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="mailto:tysontranthai@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Tyson Tran's Email"/></a>&nbsp;&nbsp;
-  <a href="https://tysontranthai.site/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
-</p>
+---
 
-## 💬 Quote
-> "It's not where you start that matters, it's where you end up! Learn to appreciate the journey cause at the end of the day the achievements are fun but not fun without all the memories that came along the way! No one will stay with you forever..."
+### 💬 Favorite Quote
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<p align="center"><a href="https://www.buymeacoffee.com/tysontrantt" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
+> *"It's not where you start that matters, it's where you end up! Learn to appreciate the journey cause at the end of the day the achievements are fun, but not fun without all the memories that came along the way."*
